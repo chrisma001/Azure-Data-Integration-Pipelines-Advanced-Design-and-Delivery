@@ -1,0 +1,9 @@
+{
+	"name": "MyAzureTrainingADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "916b43f9-b93b-4df8-bd23-12d2efaa6f87",
+		"tenantId": "4782e7a3-c644-4a84-817e-9b6f823075f0"
+	}
+}
